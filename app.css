@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  overscroll-behavior-y: none;
+}
+
+body {
+  width: 100%;
+  font-size: 1.2rem;
+  background: #f5f5f5;
+  color: #222;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #c7442b;
+}
